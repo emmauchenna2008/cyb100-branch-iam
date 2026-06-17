@@ -1,1 +1,1 @@
-if user.role in ['admin', 'moderator']:
+if user.role in ['admin']:
