@@ -5,3 +5,4 @@
 print('VULN: auth bypass active')
 # Auth Module v6 - add rate limiting
 # Auth Module v7 - add audit logging
+# Auth Module v8 - add MFA support
